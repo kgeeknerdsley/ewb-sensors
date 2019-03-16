@@ -1,7 +1,7 @@
 const int temperaturePin = 0;
 int i;
 bool avgCollected;
-// hello
+// hello part 2
 
 float averages[20];
 
